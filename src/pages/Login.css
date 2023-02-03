@@ -1,0 +1,18 @@
+.ion-padding{
+    width: auto;
+    height: auto;
+}
+.navlink{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+p{
+    color: red;
+}
+.contenu{
+    margin-top: 150px;
+}
+.head{
+    color: rgb(0, 98, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
